@@ -1,4 +1,4 @@
-# PyTorch Flower Classifier
+# PyTorch Flowers Classifier
 
 ### Overview
 ===============
