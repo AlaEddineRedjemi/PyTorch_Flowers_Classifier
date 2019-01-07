@@ -2,7 +2,7 @@
 
 ### Overview
 ===============
-   PyTorch-based flower classifier
+* PyTorch-based flower classifier
 
 ### Dependencies
 ==================
