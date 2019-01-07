@@ -3,6 +3,7 @@
 ### Overview
 ===============
 * PyTorch-based flowers classifier
+* Note: This Project NOT Yet Completed!
 
 ### Dependencies
 ==================
